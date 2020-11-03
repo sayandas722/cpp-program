@@ -1,2 +1,2 @@
 # C++ Program Collection
-* Primerange checking
+* Prime range checking
