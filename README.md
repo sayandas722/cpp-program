@@ -1,2 +1,2 @@
-# cpp-program
-collection of cpp program.
+# C++ Program Collection
+* Primerange checking
